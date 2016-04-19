@@ -1,14 +1,26 @@
-layout_spectrum: 0.4928315
 color:
   saturation: 0.08114866
-  lightness: 0.2598566
   brandStrength: 0.5053763
+  rhythmicContrast: 0.01391251
   brandColors:
     - '#0183AD'
     - '#FEFEFE'
     - '#D5D5D5'
     - '#92C3CE'
     - '#64AAC1'
-  rhythmicContrast: 0.01391251
+  lightness: 0.2598566
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4928315
 typography_spectrum: 0.7401434
 name: 'Technonerds '
