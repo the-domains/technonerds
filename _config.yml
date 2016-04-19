@@ -1,0 +1,14 @@
+layout_spectrum: 0.4928315
+color:
+  saturation: 0.08114866
+  lightness: 0.2598566
+  brandStrength: 0.5053763
+  brandColors:
+    - '#0183AD'
+    - '#FEFEFE'
+    - '#D5D5D5'
+    - '#92C3CE'
+    - '#64AAC1'
+  rhythmicContrast: 0.01391251
+typography_spectrum: 0.7401434
+name: 'Technonerds '
