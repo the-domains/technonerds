@@ -1,14 +1,7 @@
-color:
-  saturation: 0.08114866
-  brandStrength: 0.5053763
-  rhythmicContrast: 0.01391251
-  brandColors:
-    - '#0183AD'
-    - '#FEFEFE'
-    - '#D5D5D5'
-    - '#92C3CE'
-    - '#64AAC1'
-  lightness: 0.2598566
+name: Technonerds
+favicon: null
+layout_spectrum: 0.4928315
+typography_spectrum: 0.7401434
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.4928315
-typography_spectrum: 0.7401434
-name: 'Technonerds '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0183AD'
+    - '#FEFEFE'
+    - '#D5D5D5'
+    - '#92C3CE'
+    - '#64AAC1'
+  brandStrength: 0.5053763
+  lightness: 0.2598566
+  saturation: 0.08114866
+  rhythmicContrast: 0.01391251
+purpose: []
