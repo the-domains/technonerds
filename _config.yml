@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Technonerds
 cta:
   domain: null
   bucket: null
