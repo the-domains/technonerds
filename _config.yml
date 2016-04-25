@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.734767
+  saturation: 0
   brandStrength: 0.5053763
-  rhythmicContrast: 0.6182796
+  lightness: 0.2634408
   brandColors:
     - '#0183AD'
     - '#FEFEFE'
     - '#D5D5D5'
     - '#92C3CE'
     - '#64AAC1'
-  lightness: 0.7616488
+  rhythmicContrast: 0.5949821
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Technonerds
 favicon: null
+name: Technonerds
 opengraph:
   image: null
   type: null
