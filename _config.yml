@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0.734767
   brandStrength: 0.5053763
-  lightness: 0.4265233
+  lightness: 0.7616488
   brandColors:
     - '#0183AD'
     - '#FEFEFE'
     - '#D5D5D5'
     - '#92C3CE'
     - '#64AAC1'
-  rhythmicContrast: 0.7849463
+  rhythmicContrast: 0.6182796
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Technonerds
 favicon: null
+name: Technonerds
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6451613
+typography_spectrum: 0.3387097
 layout_spectrum: 0.4946237
