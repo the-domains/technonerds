@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 0.8512545
-  lightness: 0.2634408
+  rhythmicContrast: 0.5949821
   brandColors:
     - '#0183AD'
     - '#FEFEFE'
     - '#D5D5D5'
     - '#92C3CE'
     - '#64AAC1'
-  rhythmicContrast: 0.5949821
+  lightness: 0.2634408
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Technonerds
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.5286738
-layout_spectrum: 1
+typography_spectrum: 0.3458781
+layout_spectrum: 0.7275985
